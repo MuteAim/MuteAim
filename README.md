@@ -1,3 +1,3 @@
-👋 Hi, I’m MuteAim <br>
-👀 I’m Developer.JR!!!!
+👋 Hi, let's do somthing<br>
+👀 I’m Developer.JR!!!!!
 
