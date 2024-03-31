@@ -9,12 +9,10 @@
 
 <div align="center">
 
-💌Email💌<br>
-pppjhan7319@kakao.com<br><br><br>
 
 안녕하세요 !<br>
-백엔드개발자가 되기 위해 <br>
-Spring, JAVA를 집중적으로 공부하고 있어요<br><br><br><br>
+개발자가 되기 위해서 <br>
+Spring, React를 공부하고 있습니다!!!<br><br><br><br>
 💻 Used As Main<br><br>
 <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
