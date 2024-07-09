@@ -12,7 +12,7 @@
 
 안녕하세요 !<br>
 풀스택 개발자가 되고 싶은 학생입니다!!! <br>
-React.js를 공부하고 있습니다!!!<br><br><br><br>
+Next.js를 공부하고 있습니다!!!<br><br><br><br>
 💻 Used As Main<br><br>
 <img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
