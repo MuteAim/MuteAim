@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dongle&size=30&pause=1000&color=4B9E37&center=true&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94+!+%F0%9F%91%8B;%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%98%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+!"
-</p>
+
 
 <div align="center">
 
